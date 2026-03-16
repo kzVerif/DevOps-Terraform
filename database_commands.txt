@@ -1,6 +1,6 @@
-CREATE DATABASE tf_demo;
+CREATE DATABASE devOps_demo;
 
-use tf_demo;
+use devOps_demo;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
